@@ -1,7 +1,8 @@
 @use "./base/reset";
-@use "./base/variables" as *;
 @use "./base/fonts";
+@use "./base/variables" as *;
 @use "./base/mixins" as *;
+@use "./base/colors" as *;
 
 .icon {
   display: inline-block;
